@@ -51,7 +51,8 @@ Deleting the Cognito user pool AgentCoreIdentityQuickStartPool will delete the a
 You may choose to save this script as `create_cognito.sh` and execute it from your command line, or paste the script into your command line.
 
 ```
-#!/bin/bash
+#!/bin/bashasdad
+
 
 REGION=$(aws configure get region)
 
